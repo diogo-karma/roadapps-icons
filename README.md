@@ -1,5 +1,11 @@
 # RoadApps icons
 
+### Using with bower:
+```bash
+$ sudo npm -g i bower
+$ bower install RoadAppsIcons
+```
+
 ```html
 <!-- Example: -->
 <span class="raj-icon raj-icon-likelove"></span>``
