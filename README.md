@@ -8,7 +8,7 @@ $ bower install RoadAppsIcons
 
 ```html
 <!-- Example: -->
-<span class="raj-icon raj-icon-likelove"></span>``
+<span class="raj-icon raj-icon-likelove"></span>
 ```
 
 .raj-icon-lockerunlock
