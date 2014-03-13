@@ -1,0 +1,29 @@
+{
+  "name": "RoadAppsIcons",
+  "version": "1.0.0",
+  "main": "doc.css",
+  "description": "RoadApps.net Icons",
+  "homepage": "http://github.com/nechtan/roadapps-icons",
+  "author": {
+    "name": "Nechtan",
+    "homepage": "http://nechtan.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nechtan/roadapps-icons.git"
+  },
+  "ignore": [
+    "**/.*",
+    "*.md",
+    "package.json",
+    "bower.json"
+  ],
+  "keywords": [
+    "raj",
+    "css",
+    "font",
+    "fonts",
+    "icon",
+    "icons"
+  ]
+}
