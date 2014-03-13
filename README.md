@@ -5,202 +5,202 @@
 <span class="raj-icon raj-icon-likelove"></span>``
 ```
 
-.raj-icon-lockerstreamlineunlock
+.raj-icon-lockerunlock
 
-.raj-icon-locklockerstreamline
+.raj-icon-locklocker
 
-.raj-icon-bubblecommentstreamlinetalk
+.raj-icon-bubblecommenttalk
 
-.raj-icon-photopicturesstreamline
+.raj-icon-photopictures
 
-.raj-icon-handlestreamlinevector
+.raj-icon-handlevector
 
-.raj-icon-mappinstreamline
+.raj-icon-mappin
 
-.raj-icon-browserstreamlinewindow
+.raj-icon-browserwindow
 
-.raj-icon-laptopmacbookstreamline
+.raj-icon-laptopmacbook
 
-.raj-icon-chaplinhatmoviestreamline
+.raj-icon-chaplinhatmovie
 
-.raj-icon-deletegarbagestreamline
+.raj-icon-deletegarbage
 
-.raj-icon-homehousestreamline
+.raj-icon-homehouse
 
-.raj-icon-clockstreamlinetime
+.raj-icon-clocktime
 
-.raj-icon-musicnotestreamline
+.raj-icon-musicnote
 
 .raj-icon-ibooklaptop
 
 .raj-icon-computerimac
 
-.raj-icon-ipadstreamline
+.raj-icon-ipad
 
-.raj-icon-iphonestreamline
+.raj-icon-iphone
 
-.raj-icon-eatfoodforkknifestreamline
+.raj-icon-eatfoodforkknife
 
-.raj-icon-gridlinesstreamline
+.raj-icon-gridlines
 
-.raj-icon-likelovestreamline
+.raj-icon-likelove
 
-.raj-icon-penstreamline
+.raj-icon-pen
 
-.raj-icon-paintingrollstreamline
+.raj-icon-paintingroll
 
-.raj-icon-notebookstreamline
+.raj-icon-notebook
 
-.raj-icon-happysmileystreamline
+.raj-icon-happysmiley
 
-.raj-icon-ipodmusicstreamline
+.raj-icon-ipodmusic
 
-.raj-icon-bookreadstreamline
+.raj-icon-bookread
 
-.raj-icon-framepicturestreamline
+.raj-icon-framepicture
 
-.raj-icon-databasestreamline
+.raj-icon-database
 
 .raj-icon-computerimac2
 
-.raj-icon-headsetsoundstreamline
+.raj-icon-headsetsound
 
-.raj-icon-picturestreamline
+.raj-icon-picture
 
-.raj-icon-eyedropperstreamline
+.raj-icon-eyedropper
 
-.raj-icon-foodicecreamstreamline
+.raj-icon-foodicecream
 
-.raj-icon-streamlinesuitcasetravel
+.raj-icon-suitcasetravel
 
-.raj-icon-envellopemailstreamline
+.raj-icon-envellopemail
 
-.raj-icon-stampstreamline
+.raj-icon-stamp
 
-.raj-icon-emailmailstreamline
+.raj-icon-emailmail
 
-.raj-icon-penstreamline2
+.raj-icon-pen2
 
-.raj-icon-picturestreamline2
+.raj-icon-picture2
 
-.raj-icon-bookdowloadstreamline
+.raj-icon-bookdowload
 
-.raj-icon-drugmedecinestreamlinesyringue
+.raj-icon-drugmedecinesyringue
 
-.raj-icon-editmodifystreamline
+.raj-icon-editmodify
 
-.raj-icon-cocktailmojitostreamline
+.raj-icon-cocktailmojito
 
-.raj-icon-manpeoplestreamlineuser
+.raj-icon-manpeopleuser
 
-.raj-icon-bagshoppingstreamline
+.raj-icon-bagshopping
 
-.raj-icon-firstaidmedecineshieldstreamline
+.raj-icon-firstaidmedecineshield
 
-.raj-icon-coffeestreamline
+.raj-icon-coffee
 
-.raj-icon-magicmagicwandstreamline
+.raj-icon-magicmagicwand
 
-.raj-icon-linkstreamline
+.raj-icon-link
 
-.raj-icon-magnetstreamline
+.raj-icon-magnet
 
-.raj-icon-caddieshoppingstreamline
+.raj-icon-caddieshopping
 
-.raj-icon-ipodstreamline
+.raj-icon-ipod
 
-.raj-icon-caddieshopshoppingstreamline
+.raj-icon-caddieshopshopping
 
-.raj-icon-computernetworkstreamline
+.raj-icon-computernetwork
 
-.raj-icon-ipodminimusicstreamline
+.raj-icon-ipodminimusic
 
-.raj-icon-earthglobestreamline
+.raj-icon-earthglobe
 
-.raj-icon-bubblelovestreamlinetalk
+.raj-icon-bubblelovetalk
 
-.raj-icon-baristacoffeeespressostreamline
+.raj-icon-baristacoffeeespresso
 
-.raj-icon-cheffoodrestaurantstreamline
+.raj-icon-cheffoodrestaurant
 
-.raj-icon-mapstreamlineuser
+.raj-icon-mapuser
 
-.raj-icon-cameraphotostreamline
+.raj-icon-cameraphoto
 
-.raj-icon-brushpaintstreamline
+.raj-icon-brushpaint
 
-.raj-icon-computerstreamline
+.raj-icon-computer
 
-.raj-icon-cookpanpotstreamline
+.raj-icon-cookpanpot
 
-.raj-icon-cropstreamline
+.raj-icon-crop
 
-.raj-icon-barbecueeatfoodstreamline
+.raj-icon-barbecueeatfood
 
-.raj-icon-dangerdeathdeletedestroyskullstreamline
+.raj-icon-dangerdeathdeletedestroyskull
 
 .raj-icon-macintosh
 
-.raj-icon-microrecordstreamline
+.raj-icon-microrecord
 
-.raj-icon-streamlinesync
+.raj-icon-sync
 
-.raj-icon-penstreamline3
+.raj-icon-pen3
 
-.raj-icon-japanstreamlinetea
+.raj-icon-japantea
 
-.raj-icon-cameraphotopolaroidstreamline
+.raj-icon-cameraphotopolaroid
 
-.raj-icon-crownkingstreamline
+.raj-icon-crownking
 
 .raj-icon-computermacintoshvintage
 
-.raj-icon-designpencilrulestreamline
+.raj-icon-designpencilrule
 
-.raj-icon-arrowstreamlinetarget
+.raj-icon-arrowtarget
 
-.raj-icon-paintbucketstreamline
+.raj-icon-paintbucket
 
-.raj-icon-penstreamline4
+.raj-icon-pen4
 
-.raj-icon-camerastreamlinevideo
+.raj-icon-cameravideo
 
-.raj-icon-inkpenstreamline
+.raj-icon-inkpen
 
-.raj-icon-streamlineumbrellaweather
+.raj-icon-umbrellaweather
 
-.raj-icon-designgraphictabletstreamlinetablet
+.raj-icon-designgraphictablettablet
 
-.raj-icon-speechstreamlinetalkuser
+.raj-icon-speechtalkuser
 
-.raj-icon-settingsstreamline
+.raj-icon-settings
 
-.raj-icon-factoryliftstreamlinewarehouse
+.raj-icon-factoryliftwarehouse
 
-.raj-icon-divingleisureseasportstreamline
+.raj-icon-divingleisureseasport
 
 .raj-icon-bombbug
 
-.raj-icon-monoclemustachestreamline
+.raj-icon-monoclemustache
 
-.raj-icon-receiptshoppingstreamline
+.raj-icon-receiptshopping
 
-.raj-icon-armchairchairstreamline
+.raj-icon-armchairchair
 
-.raj-icon-musicspeakerstreamline
+.raj-icon-musicspeaker
 
-.raj-icon-shoessnickersstreamline
+.raj-icon-shoessnickers
 
-.raj-icon-backpackstreamlinetrekking
+.raj-icon-backpacktrekking
 
-.raj-icon-dashboardspeedstreamline
+.raj-icon-dashboardspeed
 
-.raj-icon-settingsstreamline2
+.raj-icon-settings2
 
-.raj-icon-settingsstreamline3
+.raj-icon-settings3
 
-.raj-icon-paintingpalletstreamline
+.raj-icon-paintingpallet
 
-.raj-icon-remotecontrolstreamline
+.raj-icon-remotecontrol
 
-.raj-icon-eatfoodhotdogstreamline
+.raj-icon-eatfoodhotdog
